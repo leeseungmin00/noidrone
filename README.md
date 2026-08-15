@@ -15,18 +15,18 @@ Python을 이용해 드론을 제어하고 사람의 사진을 찍어 3d 모델�
 
 ## 파일 구조
 
-| 파일         | 설명           |\n
-| main.py      | 프로그램 실행   |
-| GUI.py       | GUI 구성       |
-| drone.py     | 드론 제어      |
-| tracking.py  | 객체 추적      |
-| photo.py     | 사진 관련 기능 |
-| rotate.py    | 회전 제어      |
-| state.py     | 드론 상태 관리 |
-| approach.py  | 접근 관련 기능 |
-| config.py    | 프로젝트 설정  |
-| utils.py     | 공통 기능      |
-| models/      | 모델 관련 파일 |
+| 파일         | 설명           |
+- | main.py      | 프로그램 실행   |
+- | GUI.py       | GUI 구성       |
+- | drone.py     | 드론 제어      |
+- | tracking.py  | 객체 추적      |
+- | photo.py     | 사진 관련 기능 |
+- | rotate.py    | 회전 제어      |
+- | state.py     | 드론 상태 관리 |
+- | approach.py  | 접근 관련 기능 |
+- | config.py    | 프로젝트 설정  |
+- | utils.py     | 공통 기능      |
+- | models/      | 모델 관련 파일 |
 
 ## 사용 기술
 Python
