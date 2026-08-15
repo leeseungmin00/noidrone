@@ -15,7 +15,7 @@ Python을 이용해 드론을 제어하고 사람의 사진을 찍어 3d 모델�
 
 ## 파일 구조
 
-| 파일         | 설명           |
+  | 파일         | 설명           |
 - | main.py      | 프로그램 실행   |
 - | GUI.py       | GUI 구성       |
 - | drone.py     | 드론 제어      |
@@ -29,13 +29,13 @@ Python을 이용해 드론을 제어하고 사람의 사진을 찍어 3d 모델�
 - | models/      | 모델 관련 파일 |
 
 ## 사용 기술
-Python
-Open cv2
-YOLO pose
-DJI tello
-Tkinter
-Pillow (PIL)
-Meshroom API
+- Python
+- Open cv2
+- YOLO pose
+- DJI tello
+- Tkinter
+- Pillow (PIL)
+- Meshroom API
 
 ## 실행 방법
 
